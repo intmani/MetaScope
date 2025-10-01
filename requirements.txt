@@ -1,0 +1,4 @@
+rich
+pillow
+mutagen
+exif
